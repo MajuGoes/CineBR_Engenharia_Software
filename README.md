@@ -17,7 +17,7 @@
 ## 🎨 Protótipo do Sistema
 
 🔗 Link do protótipo:  
-[[Clique aqui]](https://ucinebr.netlify.app/index.html)
+https://cinebrbrasil.netlify.app/
 
 ---
 
