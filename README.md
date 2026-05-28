@@ -17,14 +17,14 @@
 ## 🎨 Protótipo do Sistema
 
 🔗 Link do protótipo:  
-[Adicionar link aqui]
+[[Clique aqui]](https://ucinebr.netlify.app/index.html)
 
 ---
 
 ## 📽️ Slide de Apresentação
 
 🔗 Link da apresentação:  
-[Adicionar link aqui]
+https://canva.link/ay1lhwqvpomugdo
 
 ---
 
